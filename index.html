@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html  lang="en">
+<head>
+    <meta name="viewport" content="with=device-width, intitial-scale=1.0">
+    <title>University Wedsite Design</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/css/fontawesome.min.css">
+</head>
+<body>
+    <section class="header">
+        <nav>
+            <a href="index.html"><img src="C:\Users\USER\Pictures\comScience_logo.png" width="250px"></a>
+            <div class="nav-links" id="navLinks">
+                <i class="fa fa-times"  onclick="hideMenu()"></i>
+                <ul>
+                    <li><a href="index.html">HOME</a></li>
+                    <li><a href="About.html">ABOUT</a></li>
+                    <li><a href="Catalog.html">CATALOG</a></li>
+                    <li><a href="blog.html">BLOG</a></li>
+                    <li><a href="Register.html">REGISTER</a></li>
+                    <li><a href="Events.html">EVENTS</a></li>
+                    <li><a href="Courses.html">COURSES</a></li>
+                    <li><a href="Resources.html">RESOURCES</a></li>
+                    <li><a href="Contact.html">CONTACT</a></li>
+                </ul>
+            </div>
+            <i class="fa fa-bars" onclick="showMenu()"></i>
+        </nav>
+        <div class="text-box">
+            <h1>COMPUTER SCIENCE DEPARTMENT</h1>
+            <p>YOUR GATEWAY TO WORLDCLASS COMPUTER SCIENCE<br> EDUCATION</p>
+            <a href="" class="hero-btn">Visit Us To Know More</a>
+        </div>
+        
+
+
+
+    </section>
+    <!------course------->
+    <section class="course">
+        <h1> Courses We Offer</h1>
+
+        <div class="row">
+            <div class="course-col">
+                <h3>Undergraduate Programmes</h3>
+                <P>Open the door to sought-after technology careers with a worldclass 
+                    Bachelor of Science in Computer Science degree.</P>
+            </div>
+            <div class="course-col">
+                <h3>MPhil and Msc programmes</h3>
+                <P>Embrace worldclass graduate education with unique blend of cutting-edge 
+                    research and industry experience.</P>
+            </div>
+            <div class="course-col">
+                <h3>PhD programmes</h3>
+                <P>Our PHDs lead the effort to extend the boundries of knowledge
+                    through quality and industry relevant research.</P>
+            </div>
+
+
+        </div>
+
+    </section>
+    <section class="campus">
+        <h1>Departmental Events</h1>
+        <p>Programmes, seminars and events organized by the department</p>
+        <br>
+        <p1>view upcoming and ongoing events</p1>
+
+        <div class="row">
+            <div class="campus-col">
+                <img src="Ashesi_EboYamoah_inline3.jpg">
+            </div>
+            <div class="campus-col">
+                <img src="coding.jpg">
+            </div>
+            <div class="campus-col">
+                <img src="Laptops_CH-1024x576.jpg">
+            </div>
+        </div>
+
+    </section>
+    <!-----offer-->
+   <section class="offer">
+    <h1>Short courses we offer</h1>
+    <p>Our eight week intensive certificate course is open to senior high school graduates, tertiary students, 
+        <br>school graduates, workers and the general public.
+    </p>
+    <br>
+    <p1>Evening and Weekend Session Only</p1>
+   </section>
+   <!------register-->
+   <section class="register">
+    <h1>join our short course program</h1>
+    <P>To be able to take full advantage of the opportunities available to this technology driven era,
+      <br>  it is important to acquire new skills,Skills in the IT that will springboard your career</P>
+       <br> <a href= ""class="hero-btn">Register</a>
+       
+
+   </section>
+   <!---web-->
+   <section class="wed">
+    <div class="row">
+        <div class="web-col">
+            <img src="Cyber Security.jpg"width="250px">
+            <h1>Information Security and ethical hacking</h1>
+            <p>learn the various techniques used to secure a computer system from attacks through hacking</p>
+        </div>
+        <div class="web-col">
+            <img src="Mobile App Dev.jpg"width="250px">
+            <h1>Mobile Appliction Development</h1>
+            <p>We provide worldclass technologies for Mobile Application Development using the mobile-first worklight by IBM.</p>
+        </div>
+        <div class="web-col">
+            <img src="Web Dev.png"width="250px">
+            <h1>Introduction to Wed programming</h1>
+            <P>Understand the fundamentals of web technologies and create web-based applications with lastest technologies.</P>
+        </div>
+        <div class="web-col">
+            <img src="CCNA.png"width="250px">
+            <h1>Computer network fundamentals(CCNA)</h1>
+            <p>We provide quality training for students to become a cisco Certified Network Association(CCNA)</p>
+        </div>
+       
+
+
+    </div>
+   </section>
+ <div class="container">
+    <form>
+        <h3>GET IN TOUCH</h3>
+        <input type="text" id="name" placeholder="Your name" required>
+        <input type="email" id="email" placeholder="Email id" required>
+        <input type="text" id="Phone" placeholder="Phone no." required>
+        <textarea id="message" row="4" placeholder="How can we help you?"></textarea>
+        <button type="submit">Submit</button>
+    </form>
+ </div>
+
+
+   
+
+
+
+
+    <!------Javascript for Toggle <Menu------->
+
+    <script>
+        var navLinks =document.getElementById("navLinks");
+        function showMenu(){
+            navLinks.style.right = "0";
+        }
+        function hideMenu(){
+            navLinks.style.right = "-200px"
+        }
+
+
+    </script>
+
+</body> 
+</html>
