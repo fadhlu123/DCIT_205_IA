@@ -15,4 +15,27 @@ Fadhlu Abdul Jaleel
 
 ![catalog](https://github.com/fadhlu123/DCIT_205_IA/assets/152108812/e74cae55-a9e5-4db1-a3ab-7a873650aa01)
 
+
+
 ![Resources](https://github.com/fadhlu123/DCIT_205_IA/assets/152108812/e74cae55-a9e5-4db1-a3ab-7a873650aa01)
+
+
+![index](https://github.com/fadhlu123/DCIT_205_IA/assets/152108812/e74cae55-a9e5-4db1-a3ab-7a873650aa01)
+
+
+![Register](https://github.com/fadhlu123/DCIT_205_IA/assets/152108812/e74cae55-a9e5-4db1-a3ab-7a873650aa01)
+
+
+![Events](https://github.com/fadhlu123/DCIT_205_IA/assets/152108812/e74cae55-a9e5-4db1-a3ab-7a873650aa01)
+
+
+![Courses](https://github.com/fadhlu123/DCIT_205_IA/assets/152108812/e74cae55-a9e5-4db1-a3ab-7a873650aa01)
+
+
+![Blog](https://github.com/fadhlu123/DCIT_205_IA/assets/152108812/e74cae55-a9e5-4db1-a3ab-7a873650aa01)
+
+
+![Contact](https://github.com/fadhlu123/DCIT_205_IA/assets/152108812/e74cae55-a9e5-4db1-a3ab-7a873650aa01)
+
+
+![About](https://github.com/fadhlu123/DCIT_205_IA/assets/152108812/e74cae55-a9e5-4db1-a3ab-7a873650aa01)
