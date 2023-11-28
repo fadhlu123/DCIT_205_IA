@@ -13,29 +13,20 @@ Finally, run the project using the appropriate command. This could be something 
 Fadhlu Abdul Jaleel
 11352433
 
-![catalog](https://github.com/fadhlu123/DCIT_205_IA/assets/152108812/e74cae55-a9e5-4db1-a3ab-7a873650aa01)
+![screenshots](about.png)
 
+![screenshots](blog.png)
 
+![screenshots](catalog.png)
 
-![Resources](https://github.com/fadhlu123/DCIT_205_IA/assets/152108812/e74cae55-a9e5-4db1-a3ab-7a873650aa01)
+![screenshots](contact.png)
 
+![screenshots](courses.png)
 
-![index](https://github.com/fadhlu123/DCIT_205_IA/assets/152108812/e74cae55-a9e5-4db1-a3ab-7a873650aa01)
+![screenshots](Events.png)
 
+![screenshots](index.png)
 
-![Register](https://github.com/fadhlu123/DCIT_205_IA/assets/152108812/e74cae55-a9e5-4db1-a3ab-7a873650aa01)
+![screenshots](Register.png)
 
-
-![Events](https://github.com/fadhlu123/DCIT_205_IA/assets/152108812/e74cae55-a9e5-4db1-a3ab-7a873650aa01)
-
-
-![Courses](https://github.com/fadhlu123/DCIT_205_IA/assets/152108812/e74cae55-a9e5-4db1-a3ab-7a873650aa01)
-
-
-![Blog](https://github.com/fadhlu123/DCIT_205_IA/assets/152108812/e74cae55-a9e5-4db1-a3ab-7a873650aa01)
-
-
-![Contact](https://github.com/fadhlu123/DCIT_205_IA/assets/152108812/e74cae55-a9e5-4db1-a3ab-7a873650aa01)
-
-
-![About](https://github.com/fadhlu123/DCIT_205_IA/assets/152108812/e74cae55-a9e5-4db1-a3ab-7a873650aa01)
+![screenshots](Resources.png)
